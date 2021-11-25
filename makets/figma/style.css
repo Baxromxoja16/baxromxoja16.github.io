@@ -1,0 +1,1012 @@
+header .menu {
+    background: #0a1220;
+}
+
+header .col-12 {
+    margin-bottom: 24px;
+    padding-top: 24px;
+}
+
+header .navbar .navbar-brand {
+    width: 283.09px;
+    height: 57px;
+}
+
+header .navbar .navbar-nav {
+    display: flex;
+    margin-left: 84px;
+    width: 411px;
+    margin-top: 15px;
+}
+
+header .navbar .navbar-nav .nav-item .nav-link {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #fff;
+    margin-left: 40px;
+}
+
+header .navbar button {
+    width: 112px;
+    height: 52px;
+    background: #3A68B8;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+}
+
+
+header .title {
+    background: #09101e;
+}
+
+header .title .title_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 149px;
+}
+
+header .title .title_box .box_left {
+    width: 604px;
+    height: 415px;
+}
+
+header .title .title_box .box_left .platform {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    text-transform: uppercase;
+    color: #3A68B8;
+}
+
+header .title .title_box .box_left .syber {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 130%;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+
+header .title .title_box .box_left .team {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #FFFFFF;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+
+header .title .title_box .box_left .btn .start {
+    width: 171px;
+    height: 57px;
+    background: transparent;
+    background: #3A68B8;
+    border-radius: 5px;
+    border: none;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-right: 20px;
+}
+
+header .title .title_box .box_left .btn .play {
+    width: 217px;
+    height: 57px;
+    background: transparent;
+    background: #3A68B8;
+    border-radius: 5px;
+    border: none;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+header .title .images {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 197px;
+}
+
+
+
+/* ======================== section apply start*/
+
+.apply {
+    background: #020a18;
+}
+
+.apply .images {
+    width: 725px;
+    /* height: 669px;  */
+    margin-top: 130px;
+    margin-bottom: 170px;
+}
+
+.apply .Learning {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 130%;
+    color: #FFFFFF;
+    margin-top: 308px;
+}
+
+.apply .info {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+
+.apply .learn {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    background: #3A68B8;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+
+
+/* ===========section slayd start */
+
+.slayd {
+    background: #020a18;
+}
+
+.slayd .stats {
+    width: 100%;
+    display: flex;
+}
+
+.slayd .stats .box {
+    width: 20%;
+    background: #1a212e;
+    border-radius: 10px;
+    padding-top: 47px;
+    padding-bottom: 30px;
+    margin-left: 30px;
+}
+
+.slayd .stats .box:first-child {
+    margin-left: 0;
+}
+
+.slayd .stats .box img {
+    width: 73px;
+    height: 69px;
+    margin: auto;
+    display: block;
+}
+
+.slayd .stats .box .box_win {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 125%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 47px;
+    text-align: center;
+}
+
+.slayd .stats .box .box_info {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+
+
+/* -==================section awesome  start*/
+
+.awesome {
+    background: #020a18;
+}
+
+.awesome .left_box .what {
+    margin-top: 279px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 130%;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+}
+
+.awesome .left_box p {
+    margin-top: 20px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+
+.awesome .right_box {
+    margin-top: 235px;
+    margin-bottom: 170px;
+}
+
+
+/* ================================footer start */
+
+footer {
+    background: #060e1c;
+    padding-bottom: 146px;
+}
+
+footer .box {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .box .box_info {
+    margin-top: 77px;
+    width: 261px;
+    list-style: none;
+}
+
+footer .box .box_info .logo {
+    margin-bottom: 8px;
+}
+
+footer .box .box_info img {
+    margin-bottom: 10px;
+}
+
+footer .box .box_info .info {
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    opacity: 0.6;
+    margin-bottom: 37px;
+}
+
+footer .box .box_info ul {
+    padding-left: 0;
+    /* margin-bottom: 0; */
+}
+
+footer .box .box_info ul li {
+    display: flex;
+    margin-top: 20px;
+
+}
+
+footer .box .box_info ul li a {
+    display: flex;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+footer .box .box_info ul li a p {
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin-left: 9px;
+    margin-bottom: 0px;
+}
+
+
+footer .box .information {
+    margin-top: 83px;
+}
+
+footer .box .information ul h5 {
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+
+footer .box .information ul li {
+    margin-bottom: 20px;
+}
+
+footer .box .information ul li a {
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    opacity: 0.6;
+    text-decoration: none;
+    list-style: none;
+}
+
+footer .box .end_box {
+    margin-top: 83px;
+    margin-left: 31px;
+    width: 261px;
+}
+
+footer .box .end_box h5 {
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+
+footer .box .end_box p {
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    opacity: 0.6;
+    margin-bottom: 29px;
+}
+
+footer ul {
+    padding-left: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+
+footer .box .end_box ul .mail a {
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin-bottom: 21px;
+    text-decoration: none;
+}
+
+
+footer .box .end_box ul .ssilka {
+    margin-top: 21px;
+}
+
+
+footer .box .end_box ul .ssilka a {
+    color: #fff;
+    opacity: 0.6;
+    margin-right: 25px;
+}
+
+/* xl  1200 dan 1399 gacha */
+@media (max-width: 1399px){
+    header .title .title_box .box_left .syber{
+        font-size: 40px;
+    }
+
+    .apply .images img{
+        width: 600px;
+    }
+
+    .awesome .right_box img{
+        width: 580px;
+    }
+    .slayd .stats .box .box_win{
+        font-size: 18px;
+        margin-top: 35px;
+
+    }
+    .slayd .stats .box .box_info{
+        margin-top: 20px;
+    }
+    .awesome .left_box p{
+        font-size: 18px;
+    }
+    footer .box .box_info .info{
+        font-size: 16px;
+    }
+    footer .box .box_info .img img:last-child{
+        width: 200px;
+    }
+    footer .box .box_info ul li a p{
+        font-size: 18px;
+    }
+    footer .box .information ul h5{
+        font-size: 20px;
+    }
+    footer .box .information ul li a{
+        font-size: 18px;
+    }
+    footer .box .end_box h5{
+        font-size: 20px;
+    }
+    footer .box .end_box p{
+        font-size: 16px;
+    }
+    footer .box .end_box ul .mail a{
+        font-size: 19px;
+    }
+
+}
+
+
+/* lg 992 dan 1199 gacha */
+@media (max-width: 1199px){
+    header .navbar .navbar-nav{
+        margin-left: 0;
+    }
+    header .navbar button{
+        width: 90px;
+        height: 38px;
+    }
+    header .navbar .navbar-nav .nav-item .nav-link{
+        margin-left: 20px;
+    }
+
+    header .title .box_right img{
+        width: 400px;
+        margin-left: 10px;
+    }
+    header .title .title_box .box_left .syber{
+        font-size: 38px;
+    }
+    
+
+    header .title .title_box{
+        margin-top: 80px;
+    }
+    header .title .images{
+        margin-top: 60px;
+    }
+    header .title .images img{
+        margin-left: 5px;
+    }
+    header .title .images img:first-child{
+        margin-left: 0;
+    }
+
+    .apply .images img{
+        width: 550px;
+    }
+    .apply .Learning{
+        margin-top: 150px;
+    }
+    .apply .images{
+        margin-bottom: 80px;
+    }
+
+    .slayd .stats .box{
+        margin-left: 10px;
+    }
+    .slayd .stats .box .box_win{
+        font-size: 19px;
+        margin-top: 20px;
+    }
+    .slayd .stats .box .box_info{
+        font-size: 14px;
+        margin-top: 20px;
+    }
+
+    .awesome .right_box img{
+        width: 480px;
+    }
+    .awesome .right_box{
+        margin-top: 170px;
+    }
+    .awesome .left_box .what{
+        margin-top: 170px;
+        font-size: 35px;
+        padding-bottom: 20px;
+    }
+    .awesome .left_box p{
+        font-size: 14px;
+    }
+}
+
+/* md 768 dan 991 gahca */
+@media(max-width: 991px){
+    header .title .title_box .box_left .btn .start{
+        width: 150px;
+        height: 50px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    header .title .title_box .box_left .syber{
+        font-size: 30px;
+    }
+    header .title .title_box .box_left .team{
+        font-size: 14px;
+    }
+    header .title .title_box .box_left{
+        height: auto ;
+    }
+    header .navbar .navbar-nav .nav-item .nav-link{
+        margin-left: 0;
+    }
+    header .title .box_right img{
+        width: 340px;
+    }
+    header .title .title_box .box_left .btn .play{
+        width: 180px;
+        height: 50px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    header .title .title_box .box_left .btn .start{
+        width: 120px;
+        height: 40px;
+    }   
+    header .title .title_box .box_left .btn{
+        /* width: 120px;
+        height: 40px; */
+        display: flex;
+        padding: 0;
+    }
+    header .title .title_box .box_left .btn .play{
+        width: 150px;
+        height: 40px;
+    }
+    header .title .images img{
+        width: 20%;
+        margin-left: 0;
+    }
+    header .title .images{
+        margin-top: 30px;   
+    }
+
+    .apply .images {
+        margin-top: 100px;
+        padding-bottom: 100px;
+        
+    }
+    .apply .images img{
+        width: 410px;
+    }
+    .apply .Learning{
+        margin-top: 100px;
+        font-size: 27px;
+    }
+    .apply .learn{
+        font-size: 14px;
+        margin-top: 40px;
+        line-height: 18px;
+    }
+
+    .slayd .stats {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .slayd .stats .box{
+        width: 30%;
+        margin-left: 10px; 
+        margin-left: 0;
+        margin-top: 15px;          
+    }
+    .slayd .stats .box .box_win{
+        font-size: 16px;
+        margin-top: 16px;
+
+    }
+    .slayd .stats .box{
+        padding-top: 30px;
+    }
+
+    .apply .images{
+        margin-bottom: 0;
+    }
+
+    .awesome .right_box img{
+        width: 370px;
+    }
+
+    .awesome .left_box .what{
+        margin-top: 150px;
+        font-size: 25px;
+
+    }
+
+    footer .box{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    footer .box .box_info .logo{
+        width: 48px;
+    }
+    footer .box .box_info img{
+        width: 190px;
+    }
+    footer .box .box_info{
+        width: 100%;
+        margin-top: 50px;          
+    }
+    footer .box .box_info .info{
+        margin-bottom: 15px;  
+    }
+    footer .box .box_info .info p{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    footer .box .box_info ul{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    footer .box .box_info ul li a p{
+        font-size: 18px;
+        margin-left: 13px;
+        line-height: 33px;
+    }
+    footer .box .box_info ul li a .fa{
+        font-size: 39px;
+    }
+    footer .box .information ul{
+        width: 100%;
+    }
+    footer .box .information{
+        margin-top: 40px;
+    }
+    footer .box .information ul h5{
+        font-size: 20px;
+        margin-bottom: 17px;
+    }
+    footer .box .information ul li{
+        margin-bottom: 7px;
+    }
+    footer .box .information ul li a{
+        font-size: 18px;
+    }
+    footer .box .end_box{
+        margin-top: 40px;
+        margin-left: 0;
+    }
+    footer .box .end_box h5{
+        font-size: 20px;
+        margin-bottom: 22px;
+    }
+    footer .box .end_box p{
+        margin-bottom: 13px;
+        font-size: 16px;
+    }
+    footer .box .end_box ul .mail a{
+        font-size: 14px;
+    }
+    footer .box .end_box ul .ssilka{
+        margin-top: 5px;
+    }
+    footer .box .end_box ul .ssilka a{
+        margin-right: 3px;
+    }
+    footer .box .end_box ul .ssilka a .fa{
+        font-size: 16px;
+    }
+    .apply .images{
+        width: 0;
+    }
+}
+
+/* sm 576 dan 767 gacha */
+@media(max-width: 767px){
+    header .navbar button{
+        width: 84px;
+        height: 40px;
+    }
+    header .title .title_box{
+        margin-top: 30px;
+    }
+    header .title .title_box .box_left .platform{
+        font-size: 14px;
+    }
+    header .title .title_box .box_left .syber{
+        font-size: 25px;
+    }
+    header .title .title_box .box_left .team{
+        font-size: 14px;
+        margin-top: 14px;
+        margin-bottom: 30px;
+    }
+    header .title .title_box .box_left .btn .start{
+        width: 100px;
+        height: 40px;
+        font-size: 14px;
+    }
+    
+    header .title .title_box .box_left .btn .play{
+        width: 119px;
+        height: 40px;
+        font-size: 14px;
+    }
+    header .title .box_right img{
+        width: 280px;
+        margin-bottom: 130px;
+    }
+
+    header .title .images{
+        margin-top: 0;
+    }
+
+    .apply .images img{
+        width: 300px;
+    }
+    .apply .images{
+        height: 350px;
+        margin-top: 65px;
+    }
+    .apply .Learning{
+        /* width: 120px; */
+        font-size: 20px;
+        margin-top: 80px;
+    }
+    .apply .info{
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .apply .learn{
+        font-size: 14px;
+        margin-top: 20px;
+        width: 100px;
+        height: 40px;
+        line-height: 14px;
+        padding: 0;
+        font-weight: 400;
+    }
+
+    .slayd .stats .box .box_win{
+        font-size: 16px;    
+    }
+
+    .slayd .stats .box .box_info{
+        font-size: 14px;
+        margin-top: 12px;
+    }
+    .slayd .stats .box{
+        padding-top: 15px;
+        padding-bottom: 0px;
+        width: 33%;
+    }
+
+    .awesome .left_box .what{
+        margin-top: 80px;
+        font-size: 19px;
+        padding-bottom: 0;
+    }
+    .awesome .left_box p{
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .awesome .right_box img{
+        width: 270px;
+    }
+    .awesome .right_box{
+        margin-top: 85px;
+        margin-bottom: 40px;
+    }
+
+    footer .box{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    footer .box .box_info .logo{
+        width: 48px;
+    }
+    footer .box .box_info img{
+        width: 190px;
+    }
+    footer .box .box_info{
+        width: 100%;
+        margin-top: 50px;          
+    }
+    footer .box .box_info .info{
+        margin-bottom: 15px;  
+    }
+    footer .box .box_info .info p{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    footer .box .box_info ul{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    footer .box .box_info ul li a p{
+        font-size: 20px;
+        margin-left: 13px;
+        line-height: 33px;
+    }
+    footer .box .box_info ul li a .fa{
+        font-size: 39px;
+    }
+    footer .box .information ul{
+        width: 100%;
+    }
+    footer .box .information{
+        margin-top: 40px;
+    }
+    footer .box .information ul h5{
+        font-size: 22px;
+        margin-bottom: 17px;
+    }
+    footer .box .information ul li{
+        margin-bottom: 7px;
+    }
+    footer .box .information ul li a{
+        font-size: 18px;
+    }
+    footer .box .end_box{
+        margin-top: 40px;
+        margin-left: 0;
+    }
+    footer .box .end_box h5{
+        font-size: 22px;
+        margin-bottom: 22px;
+    }
+    footer .box .end_box p{
+        margin-bottom: 13px;
+        font-size: 17px;
+    }
+    footer .box .end_box ul .mail a{
+        font-size: 14px;
+    }
+    footer .box .end_box ul .ssilka{
+        margin-top: 5px;
+    }
+    footer .box .end_box ul .ssilka a{
+        margin-right: 3px;
+    }
+    footer .box .end_box ul .ssilka a .fa{
+        font-size: 16px;
+    }
+    .apply .images{
+        width: 0;
+    }
+}
+
+/* xs 0 dan 575 gacha */
+@media(max-width: 575px){
+    header .navbar button{
+        width: 61px;
+    }    
+    header .navbar .navbar-nav .nav-item .nav-link{
+        width: 14px;
+    }
+    header .navbar button{
+        margin-top: 20px;
+    }
+    header .title .title_box .box_left .btn .start{
+        width: 90px;
+        height: 35px;
+    }
+    header .title .title_box .box_left .btn .play{
+        width: 111px;
+        height: 35px;
+    }
+    header .title .title_box {
+        margin-top: 0;
+    }
+    header .title .title_box .box_left .syber {
+        font-size: 20px;
+    }
+    header .title .title_box .box_left {
+        width: 300px;
+    }
+    header .title .box_right img{
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    header .title .title_box{
+        display: flex;
+        flex-direction: column;
+    }
+    .apply .images{
+        margin-top: 25px;
+        height: 300px;
+    }
+    .apply .images img{
+        width: 299px;
+    }
+    .apply .Learning{
+        font-size: 23px;
+        margin-top: 10px;
+    }
+    .apply .learn{
+        margin-top: 10px;
+    }
+    .apply .col-7{
+        width: 100%;
+    }
+    .apply .col-5{
+        width: 100%;
+    }
+
+    
+
+
+    .slayd .stats .box{
+        width: 100%;
+    }
+    .slayd .stats .box .box_win{
+        font-size: 20px;
+    }
+
+    .awesome .col-6{
+        width: 100%;
+    }
+    .awesome .left_box{
+        text-align: center;
+    }
+    .awesome .right_box{
+        text-align: center;
+    }
+    .awesome .right_box{
+        margin-top: 40px;
+    }
+
+
+
+    footer .box .box_info .info p{
+        font-size: 14px;
+    }
+    footer .box .box_info ul li a p{
+        font-size: 14px;
+    }
+    footer .box .box_info ul li a .fa{
+        font-size: 25px;
+    }
+    footer .box .information ul h5{
+        font-size: 20px;
+    }
+    footer .box .information ul li a{
+        font-size: 15px;
+    }
+    footer .box .end_box h5{
+        font-size: 20px;
+    }
+
+    footer .box .end_box p {
+        font-size: 14px;
+    }
+
+
+}

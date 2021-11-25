@@ -1,0 +1,563 @@
+* {
+    text-decoration: none;
+    list-style: none;
+}
+
+header {
+    background: url(./img/gb.jpg) no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-expand-lg .navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-light .navbar-brand {
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 20px;
+    color: rgb(214, 201, 21);
+}
+
+.navbar-light .navbar-brand:hover {
+    color: rgb(214, 201, 21);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(214, 201, 21);
+}
+
+.navbar-light .navbar-nav .nav-link::after {
+    content: "";
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(214, 201, 21);
+    opacity: 0;
+    width: 0;
+    transition: .5s;
+}
+
+.navbar-light .navbar-nav .nav-link:hover::after {
+    color: rgb(214, 201, 21);
+    width: 100%;
+    opacity: 1;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: rgb(214, 201, 21);
+    font-weight: 500;
+}
+
+.navbar>.container,
+.navbar>.container-fluid,
+.navbar>.container-lg,
+.navbar>.container-md,
+.navbar>.container-sm,
+.navbar>.container-xl,
+.navbar>.container-xxl {
+    padding: 0;
+}
+
+.header_left {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.header_left_title {
+    font-weight: 700;
+    font-size: 65px;
+    color: white;
+    margin-top: 25%;
+    text-align: end;
+}
+
+.header_left_info {
+    font-size: 35px;
+    font-weight: 400;
+    color: white;
+    text-align: end;
+}
+
+.header_left_btn {
+    width: 100px;
+    height: 40px;
+    margin-left: auto;
+    border: none;
+    background: rgb(214, 201, 21);
+    color: #3a3a3a;
+    font-weight: 400;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 25%;
+}
+
+
+/* ------=============================about start */
+
+.about_me {
+    background: url(./img/bacdas.jpg) no-repeat;
+    background-size: cover;
+}
+
+.about_me_item {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.about_me_item_title {
+    display: flex;
+    font-weight: 900;
+    font-size: 45px;
+    color: #b6b6b6;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.about_me_item_title::after {
+    content: "";
+    border: 2px solid rgb(214, 201, 21);
+    background: #b6b6b6;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.about_me_right {
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.about_me_right_info {
+    font-weight: 700;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+.about_me_right_btn {
+    width: 200px;
+    height: 60px;
+    margin: auto;
+    border: none;
+    background: rgb(214, 201, 21);
+    color: #3a3a3a;
+    font-weight: 400;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+
+/* =============================servis start */
+
+.servis {
+    background: url(./img/1618447251_41-funart_pro-p-oboi-fon-sine-goluboi-fon-41.jpg) no-repeat;
+    background-size: cover;
+    padding-top: 13%;
+    padding-bottom: 13%;
+}
+
+.servis_item {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 630px;
+}
+
+.servis_item_title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.servis_item_info {
+    color: #ffffff;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.servis_wors {
+    display: flex;
+    justify-content: space-around;
+}
+
+.servis_wors_box {
+    margin-top: 30px;
+}
+
+.servis_wors_title {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: gold;
+}
+
+.servis_wors_main {
+    padding: 0;
+}
+
+.servis_wors_link {
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: gold;
+}
+
+.servis_wors_link:hover {
+    color: gold;
+}
+
+.servis_wors_item {
+    margin-top: 15px;
+}
+
+
+/* ===============================projec start */
+
+.project {
+    background: url(./img/wallpaperbetter\ \(1\).jpg) no-repeat;
+    background-size: cover;
+    padding: 40px 0;
+}
+
+.project_info_title {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.project_info {
+    width: auto;
+    margin: auto;
+}
+
+.project_info_lorem {
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+}
+
+.project_item {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.project_item_box {
+    width: 48%;
+    margin-top: 20px;
+}
+
+.project_item_img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px red;
+    transition: .5s;
+}
+
+.project_item_img:hover {
+    transform: scale(1.1);
+}
+
+
+/* ===================================contact */
+
+.contact {
+    background: url(./img/1618447251_41-funart_pro-p-oboi-fon-sine-goluboi-fon-41.jpg) no-repeat;
+    background-size: cover;
+}
+
+.count_sec h2.sec_title {
+    position: relative;
+    font-size: 45px;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-family: 'Poppins';
+    color: #fec110;
+    padding-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 35px;
+    transition: all 0.3s;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.con_info_wrap .info_title {
+    color: #fec110;
+    font: 500 20px/26px "Poppins", sans-serif;
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+
+.contact-form .form-group label {
+    margin-bottom: 14px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 15px;
+    line-height: 20px;
+    color: #fec110;
+}
+
+.con_info_wrap .con_info_menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.con_info_wrap .con_info_menu li {
+    color: #727b86;
+    display: flex;
+    margin-bottom: 37px;
+}
+
+.con_info_wrap .con_info_menu li span {
+    font-size: 16px;
+    display: inline-block;
+    color: #fec110;
+}
+
+.con_info_wrap .con_info_menu li .icon {
+    margin-right: 10px;
+    font-size: 20px;
+    display: inline-block;
+    color: #fec110;
+}
+
+.con_info_wrap .followTitle {
+    color: #fec110;
+    font: 400 18px/20px "Poppins", sans-serif;
+    margin-bottom: 10px;
+}
+
+.con_info_wrap .followLink {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.con_info_wrap .followLink li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.followLink li a {
+    color: #fec110;
+}
+
+.contact_wrap .contact-form {
+    position: relative;
+    z-index: 1;
+    margin-top: 0;
+}
+
+.contact_wrap .contact-form .form-group {
+    margin-bottom: 30px;
+}
+
+.contact-form .form-group .form-control {
+    border: none;
+    border-radius: 3px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    transition: all 0.25s ease;
+    padding: 6px 25px;
+    height: 60px;
+    color: #555;
+    box-shadow: 0px 3px 4px 0px rgb(0 12 29 / 6%);
+    margin-bottom: 30px;
+    background-color: #61fcfc;
+}
+
+.contact_wrap .contact-form .submit_btn {
+    font-size: 14px;
+    padding: 22px 38px;
+    font-weight: 500;
+    color: #fff;
+    background: #fec110;
+    transition: all 0.5s;
+    border: 1px solid #fec110;
+    margin-top: 10px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    box-shadow: none;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+
+/* -====================footer */
+
+.footer-top {
+    padding: 120px 0px 70px;
+    background: url(./img/1_blue_abstract.jpg)no-repeat;
+    background-size: cover;
+}
+
+.footer-top p {
+    line-height: 22px;
+    font-size: 18px;
+    font-weight: 600;
+    max-width: 565px;
+    margin: 36px auto 42px;
+    color: #fff;
+    text-align: center;
+}
+
+.footer-top .f-social {
+    padding: 0;
+    text-align: center;
+}
+
+.footer-top .f-social li {
+    display: inline-block;
+    padding: 0px 3px;
+}
+
+.footer-top .f-social li a {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.5);
+    width: 48px;
+    height: 48px;
+    background: #282828;
+    text-align: center;
+    line-height: 48px;
+    display: block;
+    border-radius: 50%;
+    transition: all 0.4s linear;
+}
+
+.f-logo {
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 20px;
+    color: rgb(214, 201, 21);
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.f-logo:hover {
+    color: rgb(214, 201, 21);
+}
+
+
+/* 1200 < xl < 1399 */
+
+@media (max-width: 1399px) {}
+
+
+/* 992 < lg < 1199 */
+
+@media (max-width: 1199px) {
+    .header_left_info {
+        font-size: 32px;
+    }
+}
+
+
+/* 768 < md < 991 */
+
+@media (max-width: 991px) {
+    .navbar-light .navbar-toggler {
+        color: #fff;
+    }
+    .header_top {
+        margin-top: 10px;
+    }
+    .header_left_title {
+        font-size: 60px;
+    }
+    .header_left_info {
+        font-size: 23px;
+    }
+}
+
+
+/* 576 < sm < 767 */
+
+@media (max-width: 767px) {
+    .header_left_title {
+        font-size: 50px;
+    }
+    .about_me_item_title {
+        font-size: 38px;
+    }
+    .about_me_right_info {
+        font-size: 18px;
+    }
+    .about_me_right_btn {
+        width: 150px;
+        height: 50px;
+    }
+    .servis_item {
+        width: auto;
+    }
+    .project_info_lorem {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .project_info_title {
+        margin-top: 0;
+    }
+    .project_item_box {
+        width: 48%;
+    }
+    .con_info_wrap .con_info_menu li span {
+        font-size: 15px;
+    }
+    .count_sec h2.sec_title {
+        font-size: 30px;
+    }
+    .contact-form .form-group label {
+        font-size: 14px;
+    }
+}
+
+
+/* 320 < sm < 575 */
+
+@media (max-width: 575px) {
+    .project_item_box {
+        width: 100%;
+    }
+    .con_info_wrap .followTitle {
+        display: none;
+    }
+    .con_info_wrap .followLink {
+        display: none;
+    }
+    .contact_wrap .contact-form .submit_btn {
+        padding: 17px 23px;
+    }
+    header {
+        background: #1a1b29;
+    }
+}
